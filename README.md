@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello 👋🏻👨🏻‍💻
 
 <!--
 **Ali-Farhadii/Ali-Farhadii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm Ali Farhadi. I'm a junior iOS programmer who is working with Swift for about two years. I'm constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry. 
+
+- I’m currently learning SwiftUI and also have plan to learn Flutter too.
+
+## Contact Me
+
+- Email: ali.farhadi79@gmail.com
+- Linkedin: https://www.linkedin.com/in/ali-farhadi/
+- Twitter: https://twitter.com/Ali__Farhadi
+- Telegram: https://t.me/alifarhadii7
