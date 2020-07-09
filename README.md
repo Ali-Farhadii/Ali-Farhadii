@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Ali Farhadi. I'm a junior iOS programmer who is working with Swift for about two years. I'm constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry. 
+I'm Ali Farhadi. I'm a junior iOS programmer who is working with Swift for about almost two years. I'm constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry. 
 
 I’m currently learning SwiftUI and also have plan to learn Flutter too.
 
