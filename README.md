@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm Ali Farhadi. I'm a junior iOS programmer and i have experience working with Swift and make several apps. I'm constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry. 
+I'm Ali Farhadi. I'm an iOS programmer and i have experience working with Swift and make several apps. I'm constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry. 
 
-I’m currently working on SwiftUI and Flutter to make more apps for other paltforms.
+I’m currently learning SwiftUI - reactive programming with Combine-RXSwift.
 
 ## Contact Me
 
